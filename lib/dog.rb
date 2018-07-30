@@ -7,3 +7,5 @@
 #     this_dogs_name 
 #   end 
 # end 
+
+# example of methods
